@@ -2,8 +2,8 @@
 
 ## Before contributing
 
-Welcome to [World-org/Books](https://github.com/World-org/Books)! 
-Before submitting pull requests, please make sure that you have **read the whole guidelines**. If you have any doubts about this contribution guide, please open [an issue](https://github.com/World-org/Books/issues/new).
+Welcome to [Books Doc](https://github.com/World-org/books-doc)! 
+Before submitting pull requests, please make sure that you have **read the whole guidelines**. If you have any doubts about this contribution guide, please open [an issue](https://github.com/World-org/books-doc/issues/new).
 
 ## Contributing
 
@@ -23,7 +23,7 @@ Being a contributor at The World-org, we request you to follow the points mentio
 
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to create a new directory, then please check if a similar category has been recently suggested or created by other pull requests.
 - If you have modified/added documentation, please ensure that your language is concise and must not contain grammatical errors.
-- Do not update [`README.md`](https://github.com/World-org/Books/blob/master/README.md) along with other changes. First, create an issue and then link to that issue in your pull request to suggest specific changes required to [`README.md`](https://github.com/World-org/Books/blob/master/README.md).
+- Do not update [`README.md`](https://github.com/World-org/books-doc/blob/master/README.md) along with other changes. First, create an issue and then link to that issue in your pull request to suggest specific changes required to [`README.md`](https://github.com/World-org/books-doc/blob/master/README.md).
 
 #### New Directory guidelines
 
@@ -70,7 +70,7 @@ Common prefixes:
 
 ### Pull Requests
 
-- Checkout our [pull request templates](https://github.com/World-org/Books/tree/master/.github/pull_request_templates)
+- Checkout our [pull request templates](https://github.com/World-org/books-doc/tree/master/.github/pull_request_templates)
 
 Happy contributing!❤️
 
